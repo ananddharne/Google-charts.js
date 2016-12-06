@@ -3,4 +3,7 @@ A simple google visualization chart mock-up for importing JSON data from another
 
 A description of how the chart would look
 
+![Screenshot1](https://github.com/ananddharne/Google-charts.js/blob/master/Screenshot%202016-12-06%2008.43.33.png "Zoomed out")
+![Screenshot2](https://github.com/ananddharne/Google-charts.js/blob/master/Screenshot%202016-12-06%2008.43.45.png "Zoomed In")
+
 
