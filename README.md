@@ -7,3 +7,6 @@ A description of how the chart would look
 ![Screenshot2](https://github.com/ananddharne/Google-charts.js/blob/master/Screenshot%202016-12-06%2008.43.45.png "Zoomed In")
 
 
+JSfiddle: https://jsfiddle.net/anandharne/g9hqchb3/1/
+
+
