@@ -1,2 +1,6 @@
 # Google-charts.js
-A simple google visualization chart mock-up for importing JSON data from another software
+A simple google visualization chart mock-up for importing JSON data from another software. The chart is time-series where you get the bandwidth available at different times.It also provides an option of sooming in and out of dates to see what data is available at what times.
+
+A description of how the chart would look
+
+
